@@ -1,0 +1,6 @@
+[submodule "compost-manager-embedded"]
+	path = compost-manager-embedded
+	url = https://github.com/leomorpho/compost-manager-embedded.git
+[submodule "compost-manager-pi"]
+	path = compost-manager-pi
+	url = https://github.com/leomorpho/compost-manager-pi
