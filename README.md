@@ -1,0 +1,1 @@
+# compost-manager-ecosystem
