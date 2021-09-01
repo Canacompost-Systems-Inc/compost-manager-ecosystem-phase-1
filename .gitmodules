@@ -4,3 +4,6 @@
 [submodule "compost-manager-pi"]
 	path = compost-manager-pi
 	url = https://github.com/leomorpho/compost-manager-pi
+[submodule "deep-space-food-challenge-report"]
+	path = deep-space-food-challenge-report
+	url = git@github.com:leomorpho/deep-space-food-challenge-report.git
